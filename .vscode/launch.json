@@ -1,0 +1,448 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch isRightTriangle",
+            "request": "launch",
+            "mainClass": "isRightTriangle",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNo",
+            "request": "launch",
+            "mainClass": "ArmstrongNo",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch BackTracking",
+            "request": "launch",
+            "mainClass": "BackTracking",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTreeTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.BinaryTreeTraversal",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingOfNodes",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.CountingOfNodes",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiameterOfTree1",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.DiameterOfTree1",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiameterOfTree2",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.DiameterOfTree2",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeightOfTree",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.HeightOfTree",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNodes",
+            "request": "launch",
+            "mainClass": "BinaryTreeProblems.SumOfNodes",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallFrndsInParty",
+            "request": "launch",
+            "mainClass": "CallFrndsInParty",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQueueUsingArray",
+            "request": "launch",
+            "mainClass": "CircularQueueUsingArray",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountPathOfMaze",
+            "request": "launch",
+            "mainClass": "CountPathOfMaze",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingTiles",
+            "request": "launch",
+            "mainClass": "CountingTiles",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch KeypadSubSequences",
+            "request": "launch",
+            "mainClass": "KeypadSubSequences",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkList",
+            "request": "launch",
+            "mainClass": "LinkList",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListPrac",
+            "request": "launch",
+            "mainClass": "LinkedListPrac",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveAllX",
+            "request": "launch",
+            "mainClass": "MoveAllX",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeCount",
+            "request": "launch",
+            "mainClass": "PalindromeCount",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeNumber",
+            "request": "launch",
+            "mainClass": "PalindromeNumber",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectSquare",
+            "request": "launch",
+            "mainClass": "PerfectSquare",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationOfString",
+            "request": "launch",
+            "mainClass": "PermutationOfString",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumberSeries",
+            "request": "launch",
+            "mainClass": "PrimeNumberSeries",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueProblems",
+            "request": "launch",
+            "mainClass": "QueueProblems",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUsingArray",
+            "request": "launch",
+            "mainClass": "QueueUsingArray",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUsingCollectionFramework",
+            "request": "launch",
+            "mainClass": "QueueUsingCollectionFramework",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUsingLinkedList",
+            "request": "launch",
+            "mainClass": "QueueUsingLinkedList",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseStack",
+            "request": "launch",
+            "mainClass": "ReverseStack",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution2",
+            "request": "launch",
+            "mainClass": "Solution2",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution3",
+            "request": "launch",
+            "mainClass": "Solution3",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution4",
+            "request": "launch",
+            "mainClass": "Solution4",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution6",
+            "request": "launch",
+            "mainClass": "Solution6",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution7",
+            "request": "launch",
+            "mainClass": "Solution7",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackProblem1",
+            "request": "launch",
+            "mainClass": "StackProblem1",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingArrayList",
+            "request": "launch",
+            "mainClass": "StackUsingArrayList",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingCollectionFramework",
+            "request": "launch",
+            "mainClass": "StackUsingCollectionFramework",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingLL",
+            "request": "launch",
+            "mainClass": "StackUsingLL",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrictlySortArrayCheck",
+            "request": "launch",
+            "mainClass": "StrictlySortArrayCheck",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsequenceOfString",
+            "request": "launch",
+            "mainClass": "SubsequenceOfString",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetOf_n_NaturalNos",
+            "request": "launch",
+            "mainClass": "SubsetOf_n_NaturalNos",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCS",
+            "request": "launch",
+            "mainClass": "TCS",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "MyProjectVs_874b7e63"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutomobileManagement",
+            "request": "launch",
+            "mainClass": "com.inheritance.AutomobileManagement",
+            "projectName": "MyProjectVs_874b7e63"
+        }
+    ]
+}
